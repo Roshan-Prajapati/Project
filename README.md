@@ -1,5 +1,6 @@
 Task Management Application:
 This is a simple task management application built with Django. It helps users create, update, and track their tasks.
+vercel app link: https://taskmanagerapplication-omega.vercel.app/
 
 Features:
 Create, edit, and delete tasks
@@ -12,8 +13,8 @@ Git installed
 
 Steps:
 Clone the repository:-
-git clone https://github.com/yourusername/task-management-app.git
-cd task-management-app
+cmd:git clone https://github.com/yourusername/task-management-app.git
+cmd:cd task-management-app
 
 Create a virtual environment and activate it:
 cmd:python -m venv env
