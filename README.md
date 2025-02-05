@@ -17,7 +17,7 @@ cmd:git clone https://github.com/yourusername/task-management-app.git
 cmd:cd task-management-app
 
 Create a virtual environment and activate it:
-cmd:python -m venv env
+cmd:python -m venv env  <br>
 cmd:env\Scripts\activate
 
 Install Django and other required dependencies:
